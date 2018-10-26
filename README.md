@@ -1,4 +1,5 @@
 # Bienvenido al curso!
-![hola](https://astrobackyard.com/wp-content/uploads/2016/04/astronomy-photo-computer-screen-688x438.jpg)
+![hola](http://www-astro.physics.ox.ac.uk/~mxc/software/ngc4342_mge.jpg)
+
 Aquí aprendemos básicamente a utilizar python para resolver problemas matemáticos orientados a la astronomía. 
 
